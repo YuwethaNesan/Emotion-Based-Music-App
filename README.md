@@ -33,21 +33,6 @@ Emood is a Python-based music app that harnesses the power of image processing t
 
 3. The app will begin analyzing your facial expressions and curating a personalized playlist based on your emotions.
 
-## Configuration
-
-Adjust the settings in the `config.ini` file to customize the app's behavior, including API keys, music preferences, and emotion thresholds.
-
-```ini
-[API]
-spotify_client_id = YOUR_SPOTIFY_CLIENT_ID
-spotify_client_secret = YOUR_SPOTIFY_CLIENT_SECRET
-
-[Emotions]
-joy_threshold = 0.6
-anger_threshold = 0.4
-sadness_threshold = 0.5
-# Add more emotions and thresholds as needed
-```
 
 ## Contributing
 
