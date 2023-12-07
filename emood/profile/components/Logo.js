@@ -8,8 +8,7 @@ export default function Logo() {
       
     </SafeAreaView>
   );
-}
-//azma
+  }
 
 const styles = StyleSheet.create({
   container: {
